@@ -1,0 +1,9 @@
+# ignore this file
+*.h5
+*.json
+*.zip
+.vscode/
+*.pyc
+*.pyo
+__pycache__/
+*.py[cod]
